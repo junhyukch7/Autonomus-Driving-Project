@@ -106,7 +106,7 @@ public:
 	}
 
 
-	
+	// Subscriber and Publisher
 	void msgCallback(const sensor_msgs::LaserScan::ConstPtr& msg) 
 	{  
 		ros::Rate loop_rate(10);	
