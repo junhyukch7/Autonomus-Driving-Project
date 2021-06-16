@@ -1,2 +1,2 @@
 # Autonomus-Driving-Project
-![포스터](https://user-images.githubusercontent.com/79674592/110315337-755f9400-804c-11eb-920c-81f627ee2eef.JPG)
+<img src="https://github.com/junhyukch7/Autonomus-Driving-Project/blob/main/poster.jpg" width="70%">
