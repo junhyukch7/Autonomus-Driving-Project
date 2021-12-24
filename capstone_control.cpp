@@ -68,6 +68,7 @@ public:
 		msg130 = msg->ranges[130] > 8 || msg->ranges[130] < 0 ? msg130 : msg->ranges[130];
 		msg270 = msg->ranges[270] > 8 || msg->ranges[270] < 0 ? msg270 : msg->ranges[270];
 		// calculating desire distance
+		// deg to rad (LiDAR distance is degree) : degree * Pi/180
 		des1 = des/cos(PI/36);
 		des2 = des/cos(PI/18);
 		des3 = des/cos(PI/12);
